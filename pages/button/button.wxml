@@ -1,0 +1,2 @@
+<!--pages/button/button.wxml-->
+<button size="mini">一个按钮</button>

@@ -1,0 +1,3 @@
+<image src="../../assets/images/male.jpg"/>
+<button bindtap="handleChoose">选中</button>
+<image src="{{imagePath}}" />

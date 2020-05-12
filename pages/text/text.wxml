@@ -1,0 +1,5 @@
+<!--pages/text/text.wxml-->
+<text>hello world\n</text>
+<text selectable="{{true}}">hello world\n</text>
+<text space="nbsp"> hello world\n</text>
+

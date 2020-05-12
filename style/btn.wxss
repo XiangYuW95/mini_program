@@ -1,0 +1,7 @@
+.btn {
+  width: 200rpx;
+  height: 72rpx;
+  display: inline-block;
+  color: #57DDB9;
+  line-height: 72rpx;
+}

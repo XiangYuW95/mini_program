@@ -1,0 +1,7 @@
+
+<!-- <text>pages/input/input.wxml</text> -->
+<input value="lksdjlfk"></input>
+
+<input type="idcard"></input>
+
+<input password="true"></input>

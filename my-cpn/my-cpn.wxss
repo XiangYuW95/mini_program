@@ -1,0 +1,5 @@
+/* my-cpn/my-cpn.wxss */
+.title {
+  font-size: 40rpx;
+  font-weight: 700;
+}

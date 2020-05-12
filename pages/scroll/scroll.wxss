@@ -1,0 +1,23 @@
+/* pages/scroll/scroll.wxss */
+@import '../../style/btn.wxss'
+.container1 {
+  background-color: skyblue;
+  white-space: nowrap;
+}
+.item1 {
+  height:100px;
+  width:100px;
+  background-color: springgreen;
+  margin: 10px;
+  display: inline-block;
+}
+
+.container2 {
+  background-color: skyblue;
+  height: 300px;
+}
+.item2 {
+  height:100px;
+  background-color: springgreen;
+  margin: 10px;
+}

@@ -1,0 +1,7 @@
+
+<text>小程序模板语法</text>
+<template name="contentItem">
+<button size="mini">{{btntext}}</button>
+<view>{{content}}</view>
+</template>
+<!-- <template is="contentItem" data="{{btntext: '按钮'， content: '我是组件内容' }}" /> -->

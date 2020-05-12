@@ -1,0 +1,4 @@
+
+<view class="box1" hover-class="hover-view">box1</view>
+
+<view class="box2" >box2</view>

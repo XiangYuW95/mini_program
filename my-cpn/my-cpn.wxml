@@ -1,0 +1,3 @@
+<!--my-cpn/my-cpn.wxml-->
+<view class="title"> {{message}}</view>
+<button size="mini"> 按钮</button>

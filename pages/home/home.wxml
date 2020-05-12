@@ -1,0 +1,13 @@
+<!--pages/home/home.wxml-->
+<view> {{ counter }} </view>
+<button size="mini" bindtap="add">添加</button>
+<button size="mini" bindtap="red" >去除</button>
+
+<view wx:for="{{list}}" >{{ item.name }}</view>
+
+<button size="mini" open-type="getUserInfo" bindgetuserinfo="handleUserInfo" bindtap="handleUserInfo">获取授权</button>
+<map></map>
+<swiper></swiper>
+<!-- <open-data type="userNickName"></open-data>
+<open-data type="userAvatarUrl"></open-data> -->
+

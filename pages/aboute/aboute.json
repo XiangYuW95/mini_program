@@ -1,0 +1,11 @@
+{
+  "usingComponents": {},
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "我的信息",
+  "backgroundTextStyle": "light",
+  "backgroundColor": "#FFFAA6",
+  "enablePullDownRefresh": true
+
+ 
+
+}
